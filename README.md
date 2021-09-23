@@ -1,5 +1,5 @@
 
-⚡ This repository contains the back-end application for the challenge 01 - Node.js
+⚡ This repository contains the back-end application for the Challenge 01 - Chapter 01 - Node.js
 
 ⚡ If you want to take a look at the course - Rocketseat
 
